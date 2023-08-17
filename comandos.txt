@@ -1,0 +1,22 @@
+ git init
+ git branch -M main
+ git remote add origin git@github.com:daiterranova/Checkpoint-16-08-23-DaianaTerranova.git
+touch main.js index.html
+git checkout -b feature
+ mkdir Hardware Software SeguridadInformatica
+ 1080  touch resumen.txt
+ 1081  ls
+ 1082  cd ..
+ 1083  ls
+ 1084  git status
+ 1085  git add .
+ 1086  git commit -m 'commit 02 Daiana Terranova'
+ 1087  git push origin feature 
+ 1088  git branch
+ 1089  git checkout main
+ 1090  mv main.js resumenHardware.txt 
+ 1091  mv index.html resumenSoftware.txt
+ 1092  code .
+ 1093  ls
+ 1094  git branch
+ 1095  touch comandos.txt
